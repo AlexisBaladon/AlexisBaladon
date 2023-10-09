@@ -1,16 +1,24 @@
-### Hi there 👋
+<!-- Your Image Header -->
+<img src="assets/heading.png" alt="Your Name's Header">
 
+### Hi there! 👋
+
+I'm Alexis, a passionate computer engineering student (graduating on December 🎉) with a keen interest in machine learning and data science.
 <!--
-**AlexisBaladon/AlexisBaladon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌱 Planning to Learn / Get better at:
 
-Here are some ideas to get you started:
+- [Technology 1](link-to-technology-1).
+- [Technology 2](link-to-technology-2).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### 🚀 My skills:
+
+- Machine Learning
+- Data Science
+- Python
+- JavaScript
+- ... (list more skills)
 -->
+#### 📫 How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/alexis-baladon/)
+- [Instagram](https://www.instagram.com/alexis.baladon/)
