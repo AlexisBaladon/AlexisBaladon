@@ -1,5 +1,5 @@
 <!-- Your Image Header -->
-<img src="assets/heading.png" alt="Your Name's Header">
+<img src="assets/heading2.png" alt="Alexis Baladón :)">
 
 ### Hi there! 👋
 
